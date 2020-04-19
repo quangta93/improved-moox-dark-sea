@@ -105,7 +105,8 @@
     "titleBar.border": "#11171d",
     "titleBar.inactiveBackground": "#171e27",
     "titleBar.inactiveForeground": "#596571",
-    "widget.shadow": "#00000000"
+    "widget.shadow": "#00000000",
+
     //"activityBar.inactiveForeground": "#46658299",
     //"breadcrumb.activeSelectionForeground": "#ffffff33",
     //"breadcrumb.background": "#1d262f",
@@ -254,7 +255,7 @@
     //"terminal.ansiRed": "#cd3131",
     //"terminal.ansiWhite": "#e5e5e5",
     //"terminal.ansiYellow": "#e5e510",
-    //"terminal.border": "#11171d",
+    "terminal.border": "#519cee",
     //"terminal.selectionBackground": "#ffffff40",
     //"textBlockQuote.background": "#7f7f7f1a",
     //"textBlockQuote.border": "#007acc80",
@@ -264,6 +265,7 @@
     //"textPreformat.foreground": "#d7ba7d",
     //"textSeparator.foreground": "#ffffff2e"
   },
+
   "tokenColors": [
     {
       "scope": ["meta.embedded", "source.groovy.embedded"],
