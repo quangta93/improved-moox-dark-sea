@@ -107,6 +107,9 @@
     "titleBar.inactiveForeground": "#596571",
     "widget.shadow": "#00000000",
 
+    "quickInput.background": "#171e27",
+    "quickInput.foreground": "#99a7b8",
+
     //"activityBar.inactiveForeground": "#46658299",
     //"breadcrumb.activeSelectionForeground": "#ffffff33",
     //"breadcrumb.background": "#1d262f",
@@ -255,7 +258,7 @@
     //"terminal.ansiRed": "#cd3131",
     //"terminal.ansiWhite": "#e5e5e5",
     //"terminal.ansiYellow": "#e5e510",
-    "terminal.border": "#519cee",
+    "terminal.border": "#596571",
     //"terminal.selectionBackground": "#ffffff40",
     //"textBlockQuote.background": "#7f7f7f1a",
     //"textBlockQuote.border": "#007acc80",
